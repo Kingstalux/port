@@ -58,7 +58,15 @@ h2 {
     background-image: url('images/header-shapes\ mobile.png');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 90vh;
+    height: 100vh;
     background-color: white;
     border-radius: 0 0 0 35px;
+}
+
+.social {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-left: 15px;
+    width: 180px;
 }
